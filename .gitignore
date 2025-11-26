@@ -1,2 +1,15 @@
 Generation/
-MA Thesis Development of a Virtual Reality Environment for Human*Robot Task Allocation.pdf
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+*.dvi
+*.lof
+*.lot
